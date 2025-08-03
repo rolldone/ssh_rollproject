@@ -1,0 +1,7 @@
+.sync_ignore
+.env
+.ssh/
+.sync_temp/
+src/
+docker-compose.yaml
+sync-config.yaml
